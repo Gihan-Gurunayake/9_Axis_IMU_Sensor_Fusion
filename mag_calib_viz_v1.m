@@ -11,7 +11,7 @@
 %   -> ax ay az mx my mz gx gy gz
 % Stop the program by closing the live-attitude figure window.
 
-%% ----------------------------- USER CONFIG -----------------------------
+%% ----------------------------- USER CONFIG ------------------------------
 clear all;
 PORT = 5555;                 % must match HyperIMU's UDP target port
 
