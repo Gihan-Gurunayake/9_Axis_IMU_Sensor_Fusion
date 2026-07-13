@@ -10,8 +10,10 @@ All the scripts are written to accept sensor data in the following order.
 
 # Instructions
 ## Lab 0
+Install Hyper IMU Android Application and follow the guide to configure.
 
 ## Lab 1
+Enable Accelerometer and Gyroscope in the sensor list in the app to do the activity
 
 ## Lab 2
 When running this script, run each section individually, do not run the whole script at once.
