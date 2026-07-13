@@ -2,6 +2,12 @@
 
 THis repository contains necessary files to interface IMU sensors in a mobile phones ( Accelerometer, gyroscope and Magnetometer) and fuse the sensor data in real time using kalman filters to obtain attitude and heading thereby orientation as the end.
 
+# Note
+All the scripts are written to accept sensor data in the following order.
+- Accelerometer (a_x, a_y, a_z)
+- Magnetometer (m_x, m_y, m_z)
+- Gyroscope (g_x, g_y, g_z)
+
 # Instructions
 ## Lab 0
 
