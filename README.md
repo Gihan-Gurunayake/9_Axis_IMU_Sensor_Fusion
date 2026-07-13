@@ -4,9 +4,9 @@ THis repository contains necessary files to interface IMU sensors in a mobile ph
 
 # Note
 All the scripts are written to accept sensor data in the following order.
-- Accelerometer (a_x, a_y, a_z)
-- Magnetometer (m_x, m_y, m_z)
-- Gyroscope (g_x, g_y, g_z)
+- Accelerometer (ax, ay, az)
+- Magnetometer (mx, my, mz)
+- Gyroscope (gx, gy, gz)
 
 # Instructions
 ## Lab 0
