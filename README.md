@@ -19,3 +19,8 @@ When running this script, run each section individually, do not run the whole sc
 - Section 2: Magnetometer calibration (Rotate the mobile phone in all orientations slowly during the calibration period)
 - Section 3: Real time vizualization
 ## Lab 3
+When running this script, run each section individually, do not run the whole script at once.
+- Section 1: Configuration Settings ( you may change the calibration time)
+- Section 2: Magnetometer calibration (Rotate the mobile phone in all orientations slowly during the calibration period)
+- Section 3: Still intialization ( Keep the phone still on a table and run this section)
+- Section 4: Real time vizualization
