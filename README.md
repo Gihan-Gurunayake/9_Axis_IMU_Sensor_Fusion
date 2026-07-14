@@ -11,6 +11,7 @@ All the scripts are written to accept sensor data in the following order.
 # Instructions
 ## Lab 0
 Install Hyper IMU Android Application and follow the guide to configure.
+Apple users may install Phyphox and a guide is given at the bootom of the readme
 
 ## Lab 1
 Enable Accelerometer and Gyroscope in the sensor list in the app to do the activity
